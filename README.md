@@ -2,13 +2,13 @@
 
 https://p5js.org/
 
--
+---
 
 Emits colorful particles when tapping the mouse!
 
 ![](example.gif)
 
--
+---
 
 The MIT License (MIT)
 
